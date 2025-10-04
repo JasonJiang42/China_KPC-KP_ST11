@@ -1,0 +1,838 @@
+#name,region
+GCA_014282725.1,North China
+GCA_033113985.1,North China
+GCA_033110325.1,North China
+GCA_022262735.1,North China
+GCA_022261715.1,North China
+GCA_022262795.1,North China
+GCA_022262115.1,North China
+GCA_022262135.1,North China
+GCA_033111695.1,North China
+GCA_022262175.1,North China
+GCA_022262655.1,North China
+GCA_022262775.1,North China
+GCA_022262195.1,North China
+GCA_022262575.1,North China
+GCA_022261435.1,North China
+GCA_022261935.1,North China
+GCA_033113945.1,North China
+GCA_022262635.1,North China
+GCA_022262675.1,North China
+GCA_022261595.1,North China
+GCA_022262095.1,North China
+GCA_034361885.1,North China
+GCA_022261755.1,North China
+GCA_022261735.1,North China
+GCA_022262535.1,North China
+GCA_034361945.1,North China
+GCA_034362065.1,North China
+GCA_033119365.1,Northeast China
+GCA_033114065.1,Northeast China
+GCA_033120185.1,Northeast China
+GCA_022261195.1,North China
+GCA_034082405.1,North China
+GCA_033111885.1,North China
+GCA_022053725.1,North China
+GCA_022052845.1,North China
+GCA_020477835.1,North China
+GCA_022053745.1,North China
+GCA_033116605.1,North China
+GCA_033111785.1,North China
+GCA_033111805.1,North China
+GCA_022262455.1,North China
+GCA_022261555.1,North China
+GCA_022261875.1,North China
+GCA_022261975.1,North China
+GCA_022261895.1,North China
+GCA_022261455.1,North China
+GCA_022261635.1,North China
+GCA_029523635.1,North China
+GCA_042973135.1,East China
+GCA_033110865.1,North China
+GCA_034390215.1,North China
+GCA_022184565.1,North China
+GCA_034082005.1,North China
+GCA_020483205.1,North China
+GCA_034390135.1,North China
+GCA_033110385.1,North China
+GCA_042973255.1,Northeast China
+GCA_044952185.1,Northeast China
+GCA_033110345.1,North China
+GCA_033118665.1,North China
+GCA_034390495.1,North China
+GCA_034390285.1,North China
+GCA_034390415.1,North China
+GCA_020482985.1,North China
+GCA_034390255.1,North China
+GCA_020482645.1,North China
+GCA_020482725.1,North China
+GCA_034390515.1,North China
+GCA_022860085.1,North China
+GCA_034394235.1,North China
+GCA_034394245.1,North China
+GCA_024756785.1,North China
+GCA_024756795.1,North China
+GCA_034390615.1,North China
+GCA_034390655.1,North China
+GCA_034396785.1,Northwestern China
+GCA_034397135.1,Northwestern China
+GCA_034397155.1,Northwestern China
+GCA_034397095.1,Northwestern China
+GCA_034397215.1,Northwestern China
+GCA_034396995.1,Northwestern China
+GCA_034396875.1,Northwestern China
+GCA_034396935.1,Northwestern China
+GCA_034396855.1,Northwestern China
+GCA_042973165.1,Northwestern China
+GCA_033117875.1,Northwestern China
+GCA_044951825.1,Northwestern China
+GCA_042973195.1,Northwestern China
+GCA_044951965.1,Northwestern China
+GCA_002164855.2,Southwestern China
+GCA_034363965.1,Southwestern China
+GCA_034364125.1,Southwestern China
+GCA_002852635.1,Southwestern China
+GCA_002852585.1,Southwestern China
+GCA_002853235.1,Southwestern China
+GCA_034363825.1,Southwestern China
+GCA_034364445.1,Southwestern China
+GCA_034364325.1,Southwestern China
+GCA_034363995.1,Southwestern China
+GCA_034364045.1,Southwestern China
+GCA_034364105.1,Southwestern China
+GCA_034364385.1,Southwestern China
+GCA_034364225.1,Southwestern China
+GCA_034364305.1,Southwestern China
+GCA_034364365.1,Southwestern China
+GCA_034364465.1,Southwestern China
+GCA_034364145.1,Southwestern China
+GCA_034363985.1,Southwestern China
+GCA_034364405.1,Southwestern China
+GCA_034364065.1,Southwestern China
+GCA_033112525.1,Southwestern China
+GCA_034363845.1,Southwestern China
+GCA_002852475.1,Southwestern China
+GCA_002852015.1,Southwestern China
+GCA_002852105.1,Southwestern China
+GCA_002164755.1,Southwestern China
+GCA_002852515.1,Southwestern China
+GCA_003037265.1,Southwestern China
+GCA_003037305.1,Southwestern China
+GCA_003037835.1,Southwestern China
+GCA_041388435.1,Southwestern China
+GCA_041388735.1,Southwestern China
+GCA_003037555.1,Southwestern China
+GCA_003036765.1,Southwestern China
+GCA_003263065.1,Southwestern China
+GCA_041388475.1,Southwestern China
+GCA_003036925.1,Southwestern China
+GCA_003261935.1,Southwestern China
+GCA_003261865.1,Southwestern China
+GCA_003262135.1,Southwestern China
+GCA_003037915.1,Southwestern China
+GCA_002852135.1,Southwestern China
+GCA_041388455.1,Southwestern China
+GCA_003262975.1,Southwestern China
+GCA_003036465.1,Southwestern China
+GCA_041388535.1,Southwestern China
+GCA_041388925.1,Southwestern China
+GCA_003262445.1,Southwestern China
+GCA_018383575.1,Southwestern China
+GCA_018383705.1,Southwestern China
+GCA_003036815.1,Southwestern China
+GCA_003038155.1,Southwestern China
+GCA_002852275.1,Southwestern China
+GCA_033114645.1,Southwestern China
+GCA_003263225.1,Southwestern China
+GCA_003261715.1,Southwestern China
+GCA_003262205.1,Southwestern China
+GCA_003036845.1,Southwestern China
+GCA_002852395.1,Southwestern China
+GCA_003261745.1,Southwestern China
+GCA_003261705.1,Southwestern China
+GCA_003036665.1,Southwestern China
+GCA_002851935.1,Southwestern China
+GCA_003262275.1,Southwestern China
+GCA_018383565.1,Southwestern China
+GCA_015391385.1,Southwestern China
+GCA_003262655.1,Southwestern China
+GCA_002852235.1,Southwestern China
+GCA_003263215.1,Southwestern China
+GCA_002852785.2,Southwestern China
+GCA_003263115.1,Southwestern China
+GCA_018383515.1,Southwestern China
+GCA_002852285.1,Southwestern China
+GCA_003037515.1,Southwestern China
+GCA_003262755.1,Southwestern China
+GCA_003262955.1,Southwestern China
+GCA_003038255.1,Southwestern China
+GCA_015391395.1,Southwestern China
+GCA_003037105.1,Southwestern China
+GCA_002852245.1,Southwestern China
+GCA_003262765.1,Southwestern China
+GCA_041388315.1,Southwestern China
+GCA_003037145.1,Southwestern China
+GCA_003037475.1,Southwestern China
+GCA_002852055.1,Southwestern China
+GCA_003262915.1,Southwestern China
+GCA_015391365.1,Southwestern China
+GCA_003037225.1,Southwestern China
+GCA_002852695.1,Southwestern China
+GCA_003036605.1,Southwestern China
+GCA_002811265.1,Southwestern China
+GCA_003262625.1,Southwestern China
+GCA_003263055.1,Southwestern China
+GCA_018383675.1,Southwestern China
+GCA_002852715.1,Southwestern China
+GCA_002852535.1,Southwestern China
+GCA_002851955.1,Southwestern China
+GCA_015499895.1,Southwestern China
+GCA_002852315.1,Southwestern China
+GCA_002164605.1,Southwestern China
+GCA_002852215.1,Southwestern China
+GCA_041388705.1,Southwestern China
+GCA_034554935.1,Southwestern China
+GCA_037807855.1,Southwestern China
+GCA_041388415.1,Southwestern China
+GCA_022649725.1,Southwestern China
+GCA_034361485.1,Southwestern China
+GCA_041388625.1,Southwestern China
+GCA_002852355.1,Southwestern China
+GCA_002852485.1,Southwestern China
+GCA_002852195.1,Southwestern China
+GCA_003037855.1,Southwestern China
+GCA_002164675.1,Southwestern China
+GCA_024623465.1,Southwestern China
+GCA_041388725.1,Southwestern China
+GCA_003261855.1,Southwestern China
+GCA_041388965.1,Southwestern China
+GCA_003263195.1,Southwestern China
+GCA_041388685.1,Southwestern China
+GCA_041388605.1,Southwestern China
+GCA_034393315.1,Southwestern China
+GCA_041386235.1,Southwestern China
+GCA_041385875.1,Northwestern China
+GCA_041388195.1,Southwestern China
+GCA_041388665.1,Southwestern China
+GCA_041386015.1,East China
+GCA_041385825.1,Northwestern China
+GCA_041388025.1,Southwestern China
+GCA_003038075.1,Southwestern China
+GCA_041385905.1,Northwestern China
+GCA_034393255.1,Southwestern China
+GCA_041386005.1,East China
+GCA_002852155.1,Southwestern China
+GCA_003036785.1,Southwestern China
+GCA_002852775.1,Southwestern China
+GCA_041385835.1,Northwestern China
+GCA_002811275.1,Southwestern China
+GCA_002852455.1,Southwestern China
+GCA_003263045.1,Southwestern China
+GCA_003036865.1,Southwestern China
+GCA_003037865.1,Southwestern China
+GCA_030730785.1,Southwestern China
+GCA_003036945.1,Southwestern China
+GCA_003036895.1,Southwestern China
+GCA_003037205.1,Southwestern China
+GCA_003262365.1,Southwestern China
+GCA_003262145.1,Southwestern China
+GCA_003262875.1,Southwestern China
+GCA_003262885.1,Southwestern China
+GCA_003038195.1,Southwestern China
+GCA_003261875.1,Southwestern China
+GCA_003262345.1,Southwestern China
+GCA_003263035.1,Southwestern China
+GCA_003037045.1,Southwestern China
+GCA_003262255.1,Southwestern China
+GCA_003261695.1,Southwestern China
+GCA_003262095.1,Southwestern China
+GCA_003262415.1,Southwestern China
+GCA_041388785.1,Southwestern China
+GCA_018861955.1,Southwestern China
+GCA_002851995.1,Southwestern China
+GCA_003262535.1,Southwestern China
+GCA_003262425.1,Southwestern China
+GCA_003036885.1,Southwestern China
+GCA_003263205.1,Southwestern China
+GCA_002851975.1,Southwestern China
+GCA_002852755.1,Southwestern China
+GCA_002811375.1,Southwestern China
+GCA_002852545.1,Southwestern China
+GCA_003037365.1,Southwestern China
+GCA_003038235.1,Southwestern China
+GCA_002852435.1,Southwestern China
+GCA_003038095.1,Southwestern China
+GCA_014655965.1,Southwestern China
+GCA_003262335.1,Southwestern China
+GCA_003037585.1,Southwestern China
+GCA_003263125.1,Southwestern China
+GCA_003262585.1,Southwestern China
+GCA_003263145.1,Southwestern China
+GCA_003262965.1,Southwestern China
+GCA_041730255.1,Southwestern China
+GCA_034361565.1,Southwestern China
+GCA_014654905.1,Southwestern China
+GCA_034393475.1,Southwestern China
+GCA_033116835.1,Southwestern China
+GCA_033116875.1,Southwestern China
+GCA_003262905.1,Southwestern China
+GCA_002852415.1,Southwestern China
+GCA_003037435.1,Southwestern China
+GCA_016458365.1,Southwestern China
+GCA_003262725.1,Southwestern China
+GCA_033550085.1,Southwestern China
+GCA_033110225.1,Southwestern China
+GCA_003262615.1,Southwestern China
+GCA_021312515.1,Southwestern China
+GCA_002852365.2,Southwestern China
+GCA_004310745.1,Southwestern China
+GCA_022559105.1,Southwestern China
+GCA_003262485.1,Southwestern China
+GCA_003037995.1,Southwestern China
+GCA_003262575.1,Southwestern China
+GCA_033155075.1,Southwestern China
+GCA_046196535.1,Southwestern China
+GCA_046196575.1,Southwestern China
+GCA_046254915.1,Southwestern China
+GCA_003036805.1,Southwestern China
+GCA_003262105.1,Southwestern China
+GCA_003261895.1,Southwestern China
+GCA_003261655.1,Southwestern China
+GCA_003036965.1,Southwestern China
+GCA_003262795.1,Southwestern China
+GCA_003262505.1,Southwestern China
+GCA_003037125.1,Southwestern China
+GCA_003261785.1,Southwestern China
+GCA_022559085.1,Southwestern China
+GCA_003037385.1,Southwestern China
+GCA_003262805.1,Southwestern China
+GCA_002851875.1,Southwestern China
+GCA_003262995.1,Southwestern China
+GCA_033118375.1,South Central China
+GCA_033110645.1,South Central China
+GCA_034395755.1,South Central China
+GCA_034396375.1,South Central China
+GCA_033110745.1,South Central China
+GCA_034395935.1,South Central China
+GCA_034396175.1,South Central China
+GCA_034395715.1,South Central China
+GCA_034395735.1,South Central China
+GCA_034363405.1,South Central China
+GCA_034363095.1,South Central China
+GCA_034363255.1,South Central China
+GCA_034363175.1,South Central China
+GCA_028225725.1,South Central China
+GCA_034362665.1,South Central China
+GCA_028226215.1,South Central China
+GCA_034362995.1,South Central China
+GCA_034363075.1,South Central China
+GCA_034362825.1,South Central China
+GCA_034362875.1,South Central China
+GCA_034362405.1,South Central China
+GCA_034362785.1,South Central China
+GCA_034362775.1,South Central China
+GCA_034363015.1,South Central China
+GCA_034363465.1,South Central China
+GCA_034362715.1,South Central China
+GCA_034362645.1,South Central China
+GCA_034363055.1,South Central China
+GCA_002853335.1,Southwestern China
+GCA_003036705.1,Southwestern China
+GCA_002853315.1,Southwestern China
+GCA_041385495.1,Southwestern China
+GCA_002853375.1,Southwestern China
+GCA_034393535.1,Southwestern China
+GCA_030284485.1,Southwestern China
+GCA_030282885.1,Southwestern China
+GCA_041388375.1,Southwestern China
+GCA_034393515.1,Southwestern China
+GCA_034361655.1,Southwestern China
+GCA_033112125.1,Southwestern China
+GCA_034361425.1,Southwestern China
+GCA_033112205.1,Southwestern China
+GCA_014654825.1,Southwestern China
+GCA_034393075.1,Southwestern China
+GCA_034393195.1,Southwestern China
+GCA_041385715.1,Northwestern China
+GCA_041385565.1,Southwestern China
+GCA_041385805.1,Northwestern China
+GCA_041385705.1,Northwestern China
+GCA_041385925.1,Northwestern China
+GCA_041386275.1,Southwestern China
+GCA_041385955.1,East China
+GCA_041385965.1,Northwestern China
+GCA_034393415.1,Southwestern China
+GCA_034361105.1,Southwestern China
+GCA_034554955.1,Southwestern China
+GCA_034361265.1,Southwestern China
+GCA_034361365.1,Southwestern China
+GCA_034361225.1,Southwestern China
+GCA_023889265.1,Southwestern China
+GCA_023887825.1,Southwestern China
+GCA_023889305.1,Southwestern China
+GCA_023889245.1,Southwestern China
+GCA_023892905.1,Southwestern China
+GCA_023889285.1,Southwestern China
+GCA_023893435.1,Southwestern China
+GCA_023889325.1,Southwestern China
+GCA_023893095.1,Southwestern China
+GCA_023889225.1,Southwestern China
+GCA_023893045.1,Southwestern China
+GCA_019445555.1,East China
+GCA_033111615.1,East China
+GCA_041346305.1,East China
+GCA_019445535.1,East China
+GCA_019445605.1,East China
+GCA_019445395.1,East China
+GCA_033110165.1,East China
+GCA_034391655.1,East China
+GCA_034391535.1,East China
+GCA_033124985.1,East China
+GCA_034391795.1,East China
+GCA_033119205.1,East China
+GCA_034391735.1,East China
+GCA_033110185.1,East China
+GCA_022011535.1,East China
+GCA_033111575.1,East China
+GCA_034391055.1,East China
+GCA_034391175.1,East China
+GCA_034391395.1,East China
+GCA_034390975.1,East China
+GCA_034391015.1,East China
+GCA_034390935.1,East China
+GCA_034391255.1,East China
+GCA_022861025.1,East China
+GCA_034390855.1,East China
+GCA_033124905.1,East China
+GCA_034391595.1,East China
+GCA_022862905.1,East China
+GCA_026156535.1,East China
+GCA_022861065.1,East China
+GCA_033110245.1,East China
+GCA_022858785.1,East China
+GCA_033116535.1,East China
+GCA_022862765.1,East China
+GCA_034391335.1,East China
+GCA_019445135.1,East China
+GCA_019445345.1,East China
+GCA_033116795.1,Southwestern China
+GCA_034393355.1,Southwestern China
+GCA_022856235.1,East China
+GCA_022859085.1,East China
+GCA_041346425.1,East China
+GCA_041346545.1,East China
+GCA_019445405.1,East China
+GCA_022862885.1,East China
+GCA_022855045.1,East China
+GCA_022859565.1,East China
+GCA_022854975.1,East China
+GCA_022861005.1,East China
+GCA_022861295.1,East China
+GCA_041198155.1,East China
+GCA_022862875.1,East China
+GCA_019445615.1,East China
+GCA_022863095.1,East China
+GCA_026164275.1,East China
+GCA_026164235.1,East China
+GCA_026164325.1,East China
+GCA_022862865.1,East China
+GCA_019445595.1,East China
+GCA_033110565.1,East China
+GCA_019445295.1,East China
+GCA_022862175.1,East China
+GCA_020482585.1,East China
+GCA_041345885.1,East China
+GCA_022861485.1,East China
+GCA_020477085.1,East China
+GCA_020482185.1,East China
+GCA_041345905.1,East China
+GCA_020482415.1,East China
+GCA_020481805.1,East China
+GCA_020481835.1,East China
+GCA_020482485.1,East China
+GCA_025572545.1,South Central China
+GCA_026154065.1,South Central China
+GCA_025572355.1,South Central China
+GCA_025572635.1,South Central China
+GCA_026153785.1,South Central China
+GCA_026154085.1,South Central China
+GCA_025572585.1,South Central China
+GCA_026154015.1,South Central China
+GCA_026153955.1,South Central China
+GCA_025572335.1,South Central China
+GCA_025572565.1,South Central China
+GCA_025572605.1,South Central China
+GCA_026153745.1,South Central China
+GCA_025572455.1,South Central China
+GCA_025572305.1,South Central China
+GCA_026154005.1,South Central China
+GCA_026153925.1,South Central China
+GCA_025572445.1,South Central China
+GCA_026153685.1,South Central China
+GCA_025572505.1,South Central China
+GCA_025572525.1,South Central China
+GCA_025572385.1,South Central China
+GCA_025572465.1,South Central China
+GCA_025572425.1,South Central China
+GCA_026154045.1,South Central China
+GCA_044430025.1,South Central China
+GCA_044429785.1,South Central China
+GCA_045154515.1,South Central China
+GCA_045154535.1,South Central China
+GCA_044429485.1,South Central China
+GCA_045154575.1,South Central China
+GCA_039613315.1,Southwestern China
+GCA_044429805.1,South Central China
+GCA_039613255.1,Southwestern China
+GCA_039613225.1,Southwestern China
+GCA_039613185.1,Southwestern China
+GCA_039613175.1,Southwestern China
+GCA_039613155.1,Southwestern China
+GCA_039613215.1,Southwestern China
+GCA_044429155.1,South Central China
+GCA_044429165.1,South Central China
+GCA_044430105.1,South Central China
+GCA_045181795.1,South Central China
+GD4119,South Central China
+GCA_045181975.1,South Central China
+GD3414,South Central China
+GCA_045181325.1,South Central China
+GD3266,South Central China
+GCA_045181405.1,South Central China
+GD5233,South Central China
+GCA_045181715.1,South Central China
+GD5050,South Central China
+GCA_045181875.1,South Central China
+GD5621,South Central China
+GCA_045181895.1,South Central China
+GD5570,South Central China
+GCA_045181835.1,South Central China
+GD5658,South Central China
+GCA_045181385.1,South Central China
+GCA_045181555.1,South Central China
+GD5569,South Central China
+GCA_045181575.1,South Central China
+GD5856,South Central China
+GCA_045181265.1,South Central China
+GD5860,South Central China
+GCA_045181425.1,South Central China
+GD4223,South Central China
+GCA_045181655.1,South Central China
+GD4863,South Central China
+GCA_045181285.1,South Central China
+GD3928,South Central China
+GCA_045181815.1,South Central China
+GD4210,South Central China
+GCA_045181185.1,South Central China
+GD3807,South Central China
+GCA_045181075.1,South Central China
+GD3830,South Central China
+GCA_045181445.1,South Central China
+GD3974,South Central China
+GCA_045181855.1,South Central China
+GD3874,South Central China
+GCA_045182045.1,South Central China
+GD3676,South Central China
+GCA_045181045.1,South Central China
+GD3114,South Central China
+GCA_045181595.1,South Central China
+GCA_045181465.1,South Central China
+GD4934,South Central China
+GCA_045181245.1,South Central China
+GD5205,South Central China
+GCA_045181915.1,South Central China
+GD4157,South Central China
+GCA_045181125.1,South Central China
+GD3934,South Central China
+GCA_045181225.1,South Central China
+GCA_045181675.1,South Central China
+GD3979,South Central China
+GD3918,South Central China
+GCA_045181365.1,South Central China
+GD4239,South Central China
+GD4039,South Central China
+GCA_045181935.1,South Central China
+GCA_045181105.1,South Central China
+GD3930,South Central China
+GCA_034397955.1,East China
+GCA_025762465.1,East China
+GCA_041198315.1,East China
+GCA_022862575.1,East China
+GCA_022862795.1,East China
+GCA_041198275.1,East China
+GCA_033112745.1,South Central China
+GCA_041198025.1,East China
+GCA_044429355.1,South Central China
+GCA_021727355.1,East China
+GCA_021727285.1,East China
+GCA_021727815.1,East China
+GCA_021727655.1,East China
+GCA_021727635.1,East China
+GCA_021727715.1,East China
+GCA_021727185.1,East China
+GCA_021727235.1,East China
+GCA_021727215.1,East China
+GCA_021727855.1,East China
+GCA_022857865.1,East China
+GCA_043359875.1,East China
+GCA_041346245.1,East China
+GCA_022856545.1,East China
+GCA_022856605.1,East China
+GCA_022854875.1,East China
+GCA_022857775.1,East China
+GCA_041346085.1,East China
+GCA_022859165.1,East China
+GCA_022859505.1,East China
+GCA_002740615.1,East China
+GCA_022851365.1,East China
+GCA_002740625.1,East China
+GCA_002740645.1,East China
+GCA_022860445.1,East China
+GCA_026163915.1,East China
+GCA_009724285.1,East China
+GCA_022851105.1,East China
+GCA_009721555.1,East China
+GCA_022851035.1,East China
+GCA_009722055.1,East China
+GCA_022850995.1,East China
+GCA_002852975.3,Southwestern China
+GCA_033119865.1,East China
+GCA_033115185.1,East China
+GCA_033115055.1,East China
+GCA_033115155.1,East China
+GCA_002262225.1,East China
+GCA_009807065.1,East China
+GCA_009856585.1,East China
+GCA_033120325.1,East China
+GCA_033120405.1,East China
+GCA_033120365.1,East China
+GCA_022855305.1,South Central China
+GCA_022855405.1,South Central China
+GCA_033118075.1,East China
+GCA_033118095.1,East China
+GCA_034364665.1,East China
+GCA_015228705.1,East China
+GCA_015228715.1,East China
+GCA_033119045.1,East China
+GCA_022856745.1,East China
+GCA_033112605.1,East China
+GCA_033120585.1,East China
+GCA_039041665.1,East China
+GCA_039042515.1,East China
+GCA_022859385.1,East China
+GCA_021726875.1,East China
+GCA_022856865.1,East China
+GCA_022856875.1,East China
+GCA_022859345.1,East China
+GCA_023806175.1,East China
+GCA_009722515.1,East China
+GCA_022852425.1,East China
+GCA_033114915.1,East China
+GCA_033118155.1,East China
+GCA_023913595.1,East China
+GCA_033116595.1,East China
+GCA_034391235.1,East China
+GCA_019445175.1,East China
+GCA_033116575.1,East China
+GCA_009724385.1,East China
+GCA_022851815.1,East China
+GCA_019445195.1,East China
+GCA_009722335.1,East China
+GCA_022851665.1,East China
+GCA_009722285.1,East China
+GCA_022851515.1,East China
+GCA_021726675.1,East China
+GCA_021726735.1,East China
+GCA_021726755.1,East China
+GCA_022862385.1,East China
+GCA_026162085.1,East China
+GCA_022857825.1,East China
+GCA_026162045.1,East China
+GCA_026161885.1,East China
+GCA_022858665.1,East China
+GCA_026162015.1,East China
+GCA_022828525.1,East China
+GCA_022828575.1,East China
+GCA_024582295.1,East China
+GCA_024582355.1,East China
+GCA_022828555.1,East China
+GCA_024582315.1,East China
+GCA_007954905.1,East China
+GCA_007955155.1,East China
+GCA_009721875.1,East China
+GCA_022850725.1,East China
+GCA_009721835.1,East China
+GCA_022850705.1,East China
+GCA_019445695.1,East China
+GCA_007954815.1,East China
+GCA_007955065.1,East China
+GCA_007955095.1,East China
+GCA_007954805.1,East China
+GCA_016722885.1,East China
+GCA_007954825.1,East China
+GCA_016722865.1,East China
+GCA_007954845.1,East China
+GCA_007955055.1,East China
+GCA_022861365.1,East China
+GCA_022862425.1,East China
+GCA_022855535.1,East China
+GCA_022862665.1,East China
+GCA_039042995.1,East China
+GCA_041346645.1,East China
+GCA_022862395.1,East China
+GCA_022862125.1,East China
+GCA_022855225.1,East China
+GCA_022856185.1,East China
+GCA_045181775.1,South Central China
+GD2122,South Central China
+GCA_022862345.1,East China
+GCA_041346565.1,East China
+GCA_041345935.1,East China
+GCA_022862565.1,East China
+GCA_041346585.1,East China
+GCA_022862475.1,East China
+GCA_041346625.1,East China
+GCA_033118135.1,East China
+GCA_022857585.1,East China
+GCA_041346185.1,East China
+GCA_041346125.1,East China
+GCA_022856265.1,East China
+GCA_026161925.1,East China
+GCA_026161905.1,East China
+GCA_022856775.1,East China
+GCA_041346165.1,East China
+GCA_034391095.1,East China
+GCA_009721455.1,East China
+GCA_022850365.1,East China
+GCA_009722225.1,East China
+GCA_022851465.1,East China
+GCA_022851305.1,East China
+GCA_009724335.1,East China
+GCA_022851235.1,East China
+GCA_022851145.1,East China
+GCA_022851265.1,East China
+GCA_009722365.1,East China
+GCA_022851785.1,East China
+GCA_009721355.1,East China
+GCA_021727495.1,East China
+GCA_021727455.1,East China
+GCA_021727515.1,East China
+GCA_009721965.1,East China
+GCA_022850885.1,East China
+GCA_009721945.1,East China
+GCA_022850865.1,East China
+GCA_009724265.1,East China
+GCA_022850765.1,East China
+GCA_034390875.1,East China
+GCA_034391495.1,East China
+GCA_022862105.1,East China
+GCA_034391985.1,East China
+GCA_022858455.1,East China
+GCA_022860145.1,East China
+GCA_026161685.1,East China
+GCA_022859965.1,East China
+GCA_026161645.1,East China
+GCA_019445725.1,East China
+GCA_036577405.1,East China
+GCA_002262375.1,East China
+GCA_022862965.1,East China
+GCA_009722315.1,East China
+GCA_022862785.1,East China
+GCA_009722385.1,East China
+GCA_022852065.1,East China
+GCA_002262235.1,East China
+GCA_002262625.1,East China
+GCA_002262485.1,East China
+GCA_002261665.1,East China
+GCA_022850785.1,East China
+GCA_034390995.1,East China
+GCA_022851345.1,East China
+GCA_022851445.1,East China
+GCA_021727415.1,East China
+GCA_021727555.1,East China
+GCA_021727595.1,East China
+GCA_021727615.1,East China
+GCA_002262425.1,East China
+GCA_009722215.1,East China
+GCA_019445495.1,East China
+GCA_019445455.1,East China
+GCA_019445715.1,East China
+GCA_002262215.1,East China
+GCA_022851125.1,East China
+GCA_009722135.1,East China
+GCA_002262475.1,East China
+GCA_002262135.1,East China
+GCA_009722265.1,East China
+GCA_009724595.1,East China
+GCA_022850465.1,East China
+GCA_002262035.1,East China
+GCA_002261825.1,East China
+GCA_002261975.1,East China
+GCA_009722205.1,East China
+GCA_009724365.1,East China
+GCA_009722165.1,East China
+GCA_022851205.1,East China
+GCA_022851085.1,East China
+GCA_002262185.1,East China
+GCA_041346855.1,East China
+GCA_009722125.1,East China
+GCA_009722025.1,East China
+GCA_022863145.1,East China
+GCA_002261875.1,East China
+GCA_009721545.1,East China
+GCA_022850245.1,East China
+GCA_009721845.1,East China
+GCA_022850575.1,East China
+GCA_009724305.1,East China
+GCA_022851185.1,East China
+GCA_021726795.1,East China
+GCA_041346735.1,East China
+GCA_007954995.1,East China
+GCA_007954925.2,East China
+GCA_026163975.1,East China
+GCA_022860665.1,East China
+GCA_026163905.1,East China
+GCA_007954945.1,East China
+GCA_007955015.2,East China
+GCA_007954935.1,East China
+GCA_007955045.1,East China
+GCA_009722105.1,East China
+GCA_022851025.1,East China
+GCA_009721825.1,East China
+GCA_009721925.1,East China
+GCA_026162145.1,East China
+GCA_033117055.1,East China
+GCA_009721365.1,East China
+GCA_022850215.1,East China
+GCA_009721505.1,East China
+GCA_022850565.1,East China
+GCA_009722005.1,East China
+GCA_009721735.1,East China
+GCA_022850325.1,East China
+GCA_021727245.1,East China
+GCA_009721705.1,East China
+GCA_022850485.1,East China
+GCA_009721805.1,East China
+GCA_022850545.1,East China
+GCA_022850925.1,East China
+GCA_022850625.1,East China
+GCA_022850185.1,East China
+GCA_022850945.1,East China
+GCA_009724585.1,East China
+GCA_022850825.1,East China
+GCA_026162115.1,East China
+GCA_009721885.1,East China
+GCA_022850845.1,East China
+GCA_022850745.1,East China
+GCA_022863125.1,East China
+GCA_041346755.1,East China
+GCA_029457335.1,East China
+GCA_029457325.1,East China
+GCA_029457375.1,East China
+GCA_022861855.1,East China
+GCA_022860645.1,East China
+GCA_022859465.1,East China
+GCA_026164015.1,East China
+GCA_026164045.1,East China
+GCA_022860465.1,East China
+GCA_022860685.1,East China
