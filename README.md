@@ -70,5 +70,15 @@ library(BactDating)
 library(ape)
 t=loadCFML("clonalframe_output")
 dates=c(date1,date2...)
-
+tree=bactdate(t, dates, useRec=T)
+```
+Phylodynamic inference of effective population size was conducted using Skygrowth (https://github.com/mrc-ide/skygrowth)
+library(skygrowth)
+library(ape)
+skygrowth.map(tree_file, res=24*13, tau0=.1)
+```
+Geographical transmission patterns were estimated using TreeTime (https://treetime.readthedocs.io/en/latest/tutorials/mugration.html)
+```
+treetime mugration --tree tree_file --states metadata.tsv --attribute country
+```
 
