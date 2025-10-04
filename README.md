@@ -23,3 +23,12 @@ The MLST and capsule type were annotated using Kleborate v2.3.1 (https://github.
 ```
 kleborate --all -a input.fasta -o kaptive.results.tsv
 ```
+The ARG and VF were predicted using Abricate (https://github.com/tseemann/abricate). The databases used for annotation are ResFinder (https://github.com/cadms/resfinder) and VFDB (https://www.mgc.ac.cn/VFs/), respectively.
+```
+abricate --db resfinder/VF input.fasta > results.tsv
+```
+The plasmid type of our genomes was determined using KleTy (https://github.com/zheminzhou/KleTy).
+```
+KleTy.py -q input.fasta -o predix -n 8 -g
+```
+## Phylogenetic analysis ##
