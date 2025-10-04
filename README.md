@@ -32,3 +32,21 @@ The plasmid type of our genomes was determined using KleTy (https://github.com/z
 KleTy.py -q input.fasta -o predix -n 8 -g
 ```
 ## Phylogenetic analysis ##
+Core genome alignment was generated using snippy (https://github.com/tseemann/snippy), and recombination sites were removed with ClonalFrameML (https://github.com/xavierdidelot/ClonalFrameML). A maximum-likelihood phylogenetic tree was then constructed using IQ-TREE (http://www.iqtree.org/) based on clean core genome SNP alignments.
+```
+snippy --outdir mut1 --ref ref.gbk --ctgs mut1.fasta
+iqtree -s core.aln --boot-trees --wbtl -m GTR+I+G -B 1000 -nt 18
+ClonalFrameML tree_file recom_filter
+iqtree -s clonalframe.ML_sequence.fasta --boot-trees --wbtl -m GTR+I+G -B 1000 -nt 16
+```
+## Genomic population ##
+The core gene allele calling was performed using chewBBACA (https://github.com/B-UMMI/chewBBACA)
+```
+## create schema
+chewBBACA.py CreateSchema -i InputAssembliesFolder -o KPC-ST11_schema --ptf KPC-ST11
+## perform allele calling
+chewBBACA.py AlleleCall -i genomes/ -g KPC-ST11_schema/schema_seed -o KPC-ST11_wgMLST --cpu 6
+## Paralog detection to determine if some of the loci can be considered paralogs on the wgMLST allele calling.
+chewBBACA.py RemoveGenes -i KPC-ST11_wgMLST/results_alleles.tsv -g KPC-ST11_wgMLST/paralogous_counts.tsv -o KPC-ST11_wgMLST/results_alleles_NoParalogs.tsv
+
+
