@@ -44,9 +44,23 @@ The core gene allele calling was performed using chewBBACA (https://github.com/B
 ```
 ## create schema
 chewBBACA.py CreateSchema -i InputAssembliesFolder -o KPC-ST11_schema --ptf KPC-ST11
+
 ## perform allele calling
 chewBBACA.py AlleleCall -i genomes/ -g KPC-ST11_schema/schema_seed -o KPC-ST11_wgMLST --cpu 6
+
 ## Paralog detection to determine if some of the loci can be considered paralogs on the wgMLST allele calling.
 chewBBACA.py RemoveGenes -i KPC-ST11_wgMLST/results_alleles.tsv -g KPC-ST11_wgMLST/paralogous_counts.tsv -o KPC-ST11_wgMLST/results_alleles_NoParalogs.tsv
 
+## cgMLST schema determination
+chewBBACA.py ExtractCgMLST -i KPC-ST11_wgMLST/results_alleles_NoParalogs.tsv -o KPC-ST11_wgMLST/cgMLST
+```
+All cgMLST loci were then grouped into multi-level clusters using pHierCC (https://github.com/zheminzhou/pHierCC)
+```
+pHierCC -p KPC-ST11_cgMLST -o KPC-ST11.cgMLST.HierCC
+HCCeval -p KPC-ST11.cgMLST -c KPC-ST11.cgMLST.HierCC.HierCC -o KPC-ST11.cgMLST.HierCC.eval
+```
+The minimum spanning trees were constructed using GrapeTree (https://github.com/achtman-lab/GrapeTree)
+```
+python grapetree.py -p cgMLST.profile -m MSTreeV2
+```
 
