@@ -63,4 +63,12 @@ The minimum spanning trees were constructed using GrapeTree (https://github.com/
 ```
 python grapetree.py -p cgMLST.profile -m MSTreeV2
 ```
+## Bayesian inference
+Bayesian dating of the phylogenetic tree after recombination analysis was performed by BactDating (https://github.com/xavierdidelot/BactDating)
+```
+library(BactDating)
+library(ape)
+t=loadCFML("clonalframe_output")
+dates=c(date1,date2...)
+
 
